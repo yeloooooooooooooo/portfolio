@@ -1,0 +1,788 @@
+.Background {
+    background-color: #13072e;
+}
+
+.Helloname {
+    color: white;
+    font-size: 55px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 8px;
+    margin-bottom: 1px;
+}
+
+.Jmar {
+    color: white;
+    font-size: 55px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+
+.Para1 {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+    display: inline-block;
+    width: 590px;
+}
+.Oliverbutton {
+    margin-left: 20px;
+    height: 40px;
+    width: 67px;
+    background-color: #13072e;
+    border-width: 0%;
+    border-style: solid;
+    border-color: #13072e;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+.Homebutton {
+    margin-left: 800px;
+    height: 40px;
+    width: 60px;
+    background-color: #13072e;
+    border-width: 0%;
+    border-style: solid;
+    border-color: #13072e;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    transition-duration: .2s;
+}
+
+.Homebutton:hover {
+    text-decoration: underline;
+}
+
+.Aboutbutton {
+    margin-left: 15px;
+    height: 40px;
+    width: 60px;
+    background-color: #13072e;
+    border-width: 0%;
+    border-style: solid;
+    border-color: #13072e;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    transition-duration: .2s;
+}
+
+.Aboutbutton:hover {
+    text-decoration: underline;
+}
+
+.Portfoliobutton {
+    margin-left: 15px;
+    height: 40px;
+    width: 65px;
+    background-color: #13072e;
+    border-width: 0%;
+    border-style: solid;
+    border-color: #13072e;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    transition-duration: .2s;
+}
+
+.Portfoliobutton:hover {
+    text-decoration: underline;
+}
+
+.Skillbutton {
+    margin-left: 15px;
+    height: 40px;
+    width: 60px;
+    background-color: #13072e;
+    border-width: 0%;
+    border-style: solid;
+    border-color: #13072e;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    transition-duration: .2s;
+}
+.Skillbutton:hover {
+    text-decoration: underline;
+}
+
+.Contactsbutton {
+    margin-left: 15px;
+    height: 40px;
+    width: 65px;
+    background-color: #13072e;
+    border-width: 0%;
+    border-style: solid;
+    border-color: #13072e;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    transition-duration: .2s;
+}
+
+.Contactbutton:hover {
+    text-decoration: underline;
+}
+.IntroducingButton {
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #b3aaff;
+    border-style: solid;
+    border-color: #b3aaff;
+    border-radius: 30px;
+    margin-top: 40px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+} 
+
+.Div2 {
+    background: linear-gradient(to bottom right, rgb(19, 7, 46), rgb(36, 19, 82));
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 30px;
+    border-color: rgb(37, 3, 75);
+    height: 550px;
+    width: 1250px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.Div3 {
+    display: inline-block;
+    margin-right: 230px;
+}
+
+.Div4 {
+    display: inline-block;
+}
+
+.pfp {
+    height: 400px;
+    width: 300px;
+}
+
+.pfp2 {
+    height: 400px;
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 40px;
+    
+}
+.Div5 {
+    display: inline-block;
+    margin-right: 100px;
+
+}
+
+.Div6 {
+    display: inline-block;
+    position: relative;
+    margin-right: 50px;
+}
+
+.AboutmeButton {
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #b3aaff;
+    border-style: solid;
+    border-color: #b3aaff;
+    border-radius: 30px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+    margin-top: 0px;  
+    font-family: "Poppins", sans-serif;
+    font-weight: 1000;
+    font-style: normal; 
+}
+
+.HobbiesButton {
+    color: white;
+    font-size: 25px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 8px;
+    margin-bottom: 1px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.Div7 {
+    background: linear-gradient(to bottom right, rgb(19, 7, 46), rgb(36, 19, 82));
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 30px;
+    border-color: rgb(37, 3, 75);
+    height: 550px;
+    width: 1250px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.NAME {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 4px;
+}
+
+.Bday {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.Age{
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.Bplace {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.CS {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.Sex {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.Address {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.CST {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.Profession {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.School {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+.Div8 {
+    display: inline-block;
+}
+
+.Hobbies {
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #b3aaff;
+    border-style: solid;
+    border-color: #b3aaff;
+    border-radius: 30px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+    margin-top: 0px;   
+    font-family: "Poppins", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.SP {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 4px;
+}
+
+.WP {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.SL {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.RN {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.Likes {
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #b3aaff;
+    border-style: solid;
+    border-color: #b3aaff;
+    border-radius: 30px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+    margin-top: 4px;   
+}
+.M {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 4px;
+}
+
+.SW {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.ED {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.D {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.Q {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.Div9 {
+    background: linear-gradient(to bottom right, rgb(19, 7, 46), rgb(36, 19, 82));
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 30px;
+    border-color: rgb(37, 3, 75);
+    height: 550px;
+    width: 1250px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.MySkillButton {
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #b3aaff;
+    border-style: solid;
+    border-color: #b3aaff;
+    border-radius: 30px;
+    margin-top: 40px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.Div10 {
+    display: inline-block;
+    margin-right: 80px;
+    vertical-align: top;
+    margin-top: 70px;
+
+}
+
+.Div11 {
+    display: inline-block;
+}
+
+.Para2 {
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 15px;
+    width: 590px;
+}
+
+.pfp3 {
+    border-style: solid;
+    border-width: 0%;
+    border-color: #13072e;
+    margin-top: 20px;
+    height: 400px;
+    width: 500px;
+}
+
+.MyContactsButton {
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #b3aaff;
+    border-style: solid;
+    border-color: #b3aaff;
+    border-radius: 30px;
+    margin-top: 40px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.Div12 {
+    background: linear-gradient(to bottom right, rgb(19, 7, 46), rgb(36, 19, 82));
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 30px;
+    border-color: rgb(37, 3, 75);
+    height: 550px;
+    width: 1250px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.Div13 {
+    display: inline-block;
+    margin-right: 80px;
+    vertical-align: top;
+    margin-top: 0px;
+}
+
+.Para4 {
+    color: white;
+    font-size: 30px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.PN {
+    color: white;
+    font-size: 27px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+
+.EM {
+    color: white;
+    font-size: 27px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+
+.FB {
+    color: white;
+    font-size: 27px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+
+.IG {
+    color: white;
+    font-size: 27px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+
+.FbLink {
+    color: white;
+    font-size: 27px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 1px;
+    text-decoration: none;
+}
+
+.IgLink {
+    color: white;
+    font-size: 27px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 1px;
+    text-decoration: none;
+}
+
+.TT {
+    color: white;
+    font-size: 27px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+
+.TtLink {
+    color: white;
+    font-size: 27px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 1px;
+    text-decoration: none;
+}
+
+.DM {
+    color: white;
+    font-size: 25px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.SMP {
+    color: white;
+    font-size: 25px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+
+.Div15 {
+    width: 590px;
+    height: 140px;
+    border: none;
+    background: linear-gradient(to bottom right, rgb(19, 7, 46), rgb(36, 19, 82));
+
+}
+
+.Div16 {
+    width: 650px;
+    height: 190px;
+    background: linear-gradient(to bottom right, rgb(19, 7, 46), rgb(36, 19, 82));
+    border: none;
+    margin-top: 10px;
+}
+
+.Div17 {
+    background: linear-gradient(to bottom right, rgb(19, 7, 46), rgb(36, 19, 82));
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 30px;
+    border-color: rgb(37, 3, 75);
+    height: 550px;
+    width: 1250px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.Div18 {
+    vertical-align: middle;
+    margin-left: 500px;
+}
+
+.Projectname {
+    color: white;
+}
+
+.Div19 {
+    display: inline-block;
+    vertical-align: text-top;
+    margin-left: 90px;
+    margin-right: 200px;
+}
+
+.Div20 {
+    display: inline-block;
+    vertical-align: text-top;
+    margin-right: 200px;
+}
+
+.Div21 {
+    display: inline-block;
+    vertical-align: text-top;
+    margin-right: 10px;
+}
+
+.HTML {
+    color: wheat;
+}
+
+.Diary {
+    color: wheat;
+    text-decoration: none;
+    margin-top: 8px;
+}
+
+.C {
+    color: wheat;
+}
+
+.VSy {
+    color: wheat;
+    text-decoration: none;
+}
+
+.PP {
+    color: wheat;
+}
+
+.BMI {
+    color: wheat;
+    text-decoration: none;
+}
+
+.BD {
+    color: wheat;
+    text-decoration: none;
+}
+
+.Div22 {
+    margin-top: 250px;
+}
+
+.NOTE {
+    color: #b3aaff;
+}
